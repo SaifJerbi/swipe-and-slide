@@ -1,0 +1,6 @@
+= Example of Vaadin TouchKit SwipeView with automatic "scrolling" =
+
+Example how background thread can be used to automatically change from view to another in NavigationManager.
+
+Example is derived from TouchKit's integration tests.
+
